@@ -1,0 +1,1 @@
+{true} x:=y; t:=t-1 {f(x)=t+y or f(x-1)>y-1}
